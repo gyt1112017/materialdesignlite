@@ -33,6 +33,9 @@
     },
     "cordova-plugin-network-information": {
       "PACKAGE_NAME": "full"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "full"
     }
   },
   "dependent_plugins": {
